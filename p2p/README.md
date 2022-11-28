@@ -1,5 +1,10 @@
 # Peer 2 Peer Blockchain Tutorial
-
+```shell
+go mod init blockchain-tutorial
+```
+```shell
+go mod download
+```
 ### Getting started
 
 You'll need to set up the `gx` package manager. If you don't know how to do that, don't worry. Hang tight and read the upcoming blog post.
